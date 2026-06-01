@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: AIDL — AI Directive Language
+message: If you use this specification, please cite it.
+type: software
+authors:
+  - family-names: Goldstein
+    given-names: Niels
+repository-code: https://github.com/nielsg2/aidl-spec
+abstract: >-
+  A compact, machine-readable language for governing AI agent behavior — roles,
+  reputation, adjudication, escalation, and audit logging — paired with a
+  multi-agent governance model. Published openly as a contribution and prior art.
+keywords:
+  - AI governance
+  - agentic AI
+  - AI safety
+  - multi-agent systems
+  - Zero Trust
+license: MIT
+version: 1.0.0
+date-released: 2026-06-01
