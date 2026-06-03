@@ -20,6 +20,16 @@ AIDL lets you declare *how* AI agents should behave and be governed in a format 
 
 Autonomous and semi-autonomous AI agents are increasingly trusted to act. Without explicit, auditable governance — who may do what, how disagreements are resolved, how a misbehaving agent is caught and demoted — that trust is unearned. AIDL is one attempt at a **Zero Trust posture for AI agents**: never trust an agent's output implicitly; verify it, govern it, log it.
 
+## Companion specifications
+
+AIDL is the governance-grammar layer of a matched three-layer set, all published openly as prior art:
+
+| Layer | Specification | DOI |
+|-------|---------------|-----|
+| Governance grammar | **AIDL** (this repo) | [10.5281/zenodo.20498616](https://doi.org/10.5281/zenodo.20498616) |
+| Orchestration | [CogStack](https://github.com/nielsg2/cogstack-spec) — persistent cognition + multi-vendor cognitive stacking | [10.5281/zenodo.20529670](https://doi.org/10.5281/zenodo.20529670) |
+| Ethical perimeter | [EthicalSwarm](https://github.com/nielsg2/ethicalswarm-spec) — ethical invariants + ethical inheritance | [10.5281/zenodo.20529673](https://doi.org/10.5281/zenodo.20529673) |
+
 ## Status
 
 Published openly as a contribution and as prior art. This is not a product — it is a specification and a set of design patterns, offered freely for anyone building agent systems. See [`PROVENANCE.md`](PROVENANCE.md) for the origin timeline and the reasoning behind open publication.
