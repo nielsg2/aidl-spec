@@ -14,7 +14,10 @@ AIDL lets you declare *how* AI agents should behave and be governed in a format 
 | [`SPEC.md`](SPEC.md) | The AIDL language: two-layer format, grammar, tags, worked example |
 | [`GOVERNANCE.md`](GOVERNANCE.md) | The multi-agent governance model — the core idea |
 | [`DIRECTIVES.md`](DIRECTIVES.md) | The full operational directive set (D000–D047) |
+| [`DISCLOSURE.md`](DISCLOSURE.md) | Consolidated defensive-publication disclosure (text form) |
 | [`PROVENANCE.md`](PROVENANCE.md) | Origin, timeline, and why this is published openly |
+
+Citation metadata is provided in [`CITATION.cff`](CITATION.cff) and [`.zenodo.json`](.zenodo.json).
 
 ## Why this exists
 
