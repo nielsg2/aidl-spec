@@ -3,6 +3,8 @@
 [![DOI](https://zenodo.org/badge/1256486262.svg)](https://doi.org/10.5281/zenodo.20498616)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+> **Part of [The Always Verify Stack](https://github.com/nielsg2/always-verify-stack)** — a matched three-layer set (AIDL · CogStack · EthicalSwarm) for governing multi-agent, multi-vendor AI.
+
 **A compact, machine-readable language for governing AI agent behavior — roles, reputation, adjudication, escalation, and audit logging — paired with a runtime model for multi-agent governance.**
 
 AIDL lets you declare *how* AI agents should behave and be governed in a format that is both human-readable and machine-parseable, so the rules travel with the session instead of living in someone's head. It pairs a terse directive-index format (`.aidl`) with a multi-agent governance model: assign agents roles, accumulate per-agent reputation from observed behavior, mutate roles as reputation changes, and adjudicate conflicts through an explicit escalation path — with every decision logged.
